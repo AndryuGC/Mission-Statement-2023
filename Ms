@@ -1,14 +1,1 @@
-1.	¿Who Are You?
-I’m Andry, Engineering student.
-
-2.	¿What’s background’s you have?
-Only I work the programming in the school, this are not too much difficult, the languages we used were html, css and php.
-
-3.	¿Who do you want to be?
-I want to be a programmer, who works in the development area, like create pages for company’s or do maintenance to databases
-
-4.	¿Who do you want to do?
-Create my own Company like Spotify or Netflix, and have some teammates with programmer’s juniors and seniors.
-
-5.	¿Which are the values and fundamental beginnings who create your character and contributions? 
-I’m a resilient person, who is that? Is a person who does not give up easily, so I take advantage of that for help to my friends and my teammates.
+I’m Andry, Engineering student. Only I work the programming in the school, this are not too much difficult, the languages we used were html, css and php. I want to be a programmer, who works in the development area, like create pages for company’s or do maintenance to databases Create my own Company like Spotify or Netflix, and have some teammates with programmer’s juniors and seniors. I’m a resilient person, who is that? Is a person who does not give up easily, so I take advantage of that for help to my friends and my teammates.
